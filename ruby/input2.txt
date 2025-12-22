@@ -1,0 +1,6 @@
+Контакт: INFO@MYCOMPANY.COM
+Ещё раз: info@mycompany.com
+И снова: InFo@MyCompany.com
+admin@example.org
+ADMIN@EXAMPLE.ORG
+user+tag@github.com

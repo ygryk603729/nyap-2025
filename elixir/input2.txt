@@ -1,0 +1,26 @@
+Функциональное программирование в Elixir.
+Процессы BEAM — это лёгкие потоки.
+Параллельный поиск подстрок очень эффективен.
+Erlang VM создана для надёжности.
+Task.async_stream запускает задачи параллельно.
+Поиск по большому тексту занимает секунды.
+Actor model — основа Elixir
+Fault tolerance и hot code swapping
+Phoenix framework на Elixir.
+OTP — лучшая платформа для распределённых систем
+Elixir community растёт быстро.
+Parallel tasks with max_concurrency.
+String.contains? для проверки наличия подстроки.
+Enum.filter и Enum.map — функциональный стиль.
+Большой текст обрабатывается без проблем.
+100 тысяч строк — не проблема для BEAM.
+Процессы изолированы и безопасны.
+No shared memory — no race conditions.
+Message passing between processes.
+Supervisors перезапускают упавшие процессы.
+Let it crash philosophy
+Elixir syntax clean and readable.
+Pipe operator |> — любимая фича.
+Pattern matching в функциях.
+Immutability по умолчанию
+Hot upgrade в продакшене без downtime.

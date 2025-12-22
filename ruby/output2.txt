@@ -1,0 +1,3 @@
+admin@example.org
+info@mycompany.com
+user+tag@github.com

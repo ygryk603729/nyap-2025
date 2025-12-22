@@ -1,0 +1,3 @@
+Пишите нам на Support@Example.com или sales@company.io.
+Неправильные адреса вроде user@ или @domain.com не должны попадать.
+Также user.name+filter@gmail.com и всё-в-нижнем-регистре@test.org.

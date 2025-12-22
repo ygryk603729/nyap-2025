@@ -1,0 +1,15 @@
+Elixir
+параллель
+поиск
+BEAM
+Task
+Actor
+Phoenix
+OTP
+Fault
+Supervisor
+crash
+Pipe
+Pattern
+Immutability
+Hot upgrade

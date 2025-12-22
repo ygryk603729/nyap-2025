@@ -1,0 +1,12 @@
+orders:
+  order:
+  - '@id': '123'
+    customer: Alice
+    items:
+      item:
+      - '1'
+      - '2'
+  - '@id': '456'
+    customer: Bob
+    items:
+      item: '1'

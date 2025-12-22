@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+  <order id="123">
+    <customer>Alice</customer>
+    <items>
+      <item name="Laptop">1</item>
+      <item name="Mouse">2</item>
+    </items>
+  </order>
+  <order id="456">
+    <customer>Bob</customer>
+    <items>
+      <item name="Keyboard">1</item>
+    </items>
+  </order>
+</orders>

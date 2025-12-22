@@ -1,0 +1,12 @@
+bookstore:
+  book:
+  - '@category': fiction
+    title: Harry Potter
+    author: J.K. Rowling
+    year: '1997'
+    price: '29.99'
+  - '@category': tech
+    title: Clean Code
+    author: Robert C. Martin
+    year: '2008'
+    price: '45.00'

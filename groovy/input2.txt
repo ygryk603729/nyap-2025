@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+  <book category="fiction">
+    <title>Harry Potter</title>
+    <author>J.K. Rowling</author>
+    <year>1997</year>
+    <price>29.99</price>
+  </book>
+  <book category="tech">
+    <title>Clean Code</title>
+    <author>Robert C. Martin</author>
+    <year>2008</year>
+    <price>45.00</price>
+  </book>
+</bookstore>
